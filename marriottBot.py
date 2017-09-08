@@ -10,4 +10,3 @@ marriottTweet = "I love being a Marriott member! Marriott for life! #MembersGetI
 api.update_status(marriottTweet)
 print(marriottTweet)
 print('Tweet sent.')
-#time.sleep(15) # Sleep for 15 seconds
